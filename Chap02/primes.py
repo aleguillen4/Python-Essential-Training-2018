@@ -11,7 +11,7 @@ def isprime(n): #defines the isprime function which has n as an argument
     else:
         return True
 
-n = 351
+n = 317
 if isprime(n):
     print(f'{n} is prime')#formated string
 else:
